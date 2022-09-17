@@ -1,5 +1,2 @@
 # Git_Course
-For Med Kdr Git Course
-
-
-## Project Notes
+For Med Kdr Git Tutoriel
